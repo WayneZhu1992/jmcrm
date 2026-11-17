@@ -23,3 +23,13 @@
 所有预置客户及业务记录均为合成演示数据。新增和修改内容仅保存在访问者当前浏览器的本地存储中，不会写入 GitHub，不连接实际业务后台或 WMS。不同浏览器及不同网站地址之间的数据不互通。
 
 温区范围为演示参考配置，具体业务应按商品标签和仓储合同确认。WMS 同步数据结构为演示契约，不代表已接入实际系统。
+
+## 版本与 PRD 引用
+
+- 当前版本：**v1.0.1**
+- [v1.0.1 固定预览](https://waynezhu1992.github.io/jmcrm/versions/v1.0.1/)
+- [版本记录](https://waynezhu1992.github.io/jmcrm/versions/)
+- [完整变更说明](CHANGELOG.md)
+- [GitHub Releases](https://github.com/WayneZhu1992/jmcrm/releases)
+
+每次修复先提供本地预览，再发布对应版本。PRD 请引用版本号及固定预览地址，不使用持续更新的首页作为唯一依据。
